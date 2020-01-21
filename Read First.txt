@@ -1,0 +1,12 @@
+at first create database and edit
+conn.php file
+	$host = 'localhost';
+	$dbname = 'spin_data';
+	$username = 'root';
+	$password = '';
+
+assign your settings. 
+
+
+index.html for spin
+show_result.php is for search result......

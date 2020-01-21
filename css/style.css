@@ -1,0 +1,106 @@
+body {
+  background-color:#2d2d2d;
+  overflow: hidden;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #f1c30f;
+}
+.wheelContainer{
+  position:absolute;
+  width:100%;
+  height:100%;
+  max-width:1000px;
+  margin-left:auto;
+  margin-right:auto;
+  left:65%;
+  top:50%;
+  transform: translate(-50%, -50%) ; 
+}
+
+
+.wheelSVG{
+  position:absolute;
+  width:100%;
+  height:100%;
+  visibility:hidden;
+  overflow:visible;
+  
+}
+.peg{
+  visibility:hidden;
+}
+.wheelOutline, .valueContainer, .toast, .centerCircle{
+  pointer-events:none;
+}
+
+.wheelText{
+  pointer-events:none;
+  /* font-size:28px; */
+  /* fill:red; */
+  text-anchor:middle;
+  font-family:'Fjalla One', Arial, sans-serif;
+  -webkit-user-select: none;
+  user-select:none;
+}
+
+.toast {
+  position:absolute;
+  background-color:#E81D62;
+  border-radius:12px;
+  opacity:0;
+  text-align:center;
+}
+.toast p{
+  clear: both;
+  font-family:'Fjalla One', Arial, sand-serif;
+  margin:23px;
+  font-size:30px;
+  color:#ededed;
+  letter-spacing:-0px;
+  -webkit-touch-callout: none; 
+  -webkit-user-select: none; 
+  -khtml-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;     
+  user-select: none;  
+  line-height:32px;
+  -webkit-transition: font-size .2s ease;
+  transition: font-size .2s ease; 
+  -webkit-transition: line-height .2s ease;
+  transition: line-height .2s ease; 
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (max-width : 480px) {
+  .toast p, .toast span{
+    font-size:18px;
+    line-height:18px;
+  }
+}
+@media only screen and (min-width : 481px) and (max-width : 800px) {
+  .toast p, .toast span{
+    font-size:38px;
+    line-height:38px;
+  }
+}
+
+@media only screen and (min-width : 801px)  {
+  .toast p, .toast span{
+    font-size:58px;
+    line-height:60px;
+  }
+}
+
+
+@media only screen and (max-height : 480px) {
+  .toast p, .toast span{
+    font-size:33px;
+    line-height:35px;
+  }
+}

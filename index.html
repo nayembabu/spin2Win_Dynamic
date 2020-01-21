@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>Spin2Win Wheel</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='https://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+        
+        <link rel="stylesheet" href="css/style.css">
+
+
+
+<style type="text/css">
+    .button {
+      padding: 10px 25px;
+      font-size: 24px;
+      text-align: center;
+      outline: none;
+      color: black;
+      cursor: pointer;
+      border: none;
+      border-radius: 85px;
+      box-shadow: 5px 9px #999;
+      font-weight: bold; 
+      font-size: 25px; 
+      margin-top: 10px;
+      display: none;
+    }
+
+    .button:hover {
+        background-color: #FFFFFF;
+        color: #000000;
+        border: 2px solid black;
+    }
+
+    .button:active {
+      box-shadow: 0 2px #666;
+      transform: translateY(10px);
+        color: #000000;
+    }
+    .myInputBox {
+      font-size: 25px;
+    }
+
+</style>
+
+
+
+
+  </head>
+
+  <body>
+<br>
+   <br> 
+    
+<!-- <input type="text" name="" id="myInput"> 
+-->
+ <button class="spinBtn " id="spinBtn" style="display: none; visibility: hidden;">CLICK FOR SPIN!</button>
+
+
+ <input type="button" class="btn button green search_btn_byid spinBtn" id="spinBtn"  name="" value="CLICK FOR SPIN!"> <br><br><br><br>
+<input type="text" name="abc" id="myInputBox" class="myInputBox" placeholder="Type your Mobile Number" maxlength="11" size="30" value="">
+<div id="errmsg"></div>
+ 
+
+ <div class="wheelContainer">
+  <svg class="wheelSVG" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" text-rendering="optimizeSpeed">
+<defs>
+<filter id="shadow" x="-100%" y="-100%" width="550%" height="550%">
+  <feOffset in="SourceAlpha" dx="0" dy="0" result="offsetOut"></feOffset>        
+  <feGaussianBlur stdDeviation="9" in="offsetOut" result="drop" />
+<feColorMatrix in="drop" result="color-out" type="matrix"
+      values="0 0 0 0   0
+              0 0 0 0   0 
+              0 0 0 0   0 
+              0 0 0 .3 0"/>  
+ <feBlend in="SourceGraphic" in2="color-out" mode="normal" />
+</filter> 
+  
+</defs>
+  <g class="mainContainer">   
+    <g class="wheel"/>    
+  </g> 
+  <g class="centerCircle" />
+    
+  <g class="wheelOutline" />
+    <g class="pegContainer" >
+      <path  class="peg" fill="#EEEEEE" d="M22.139,0C5.623,0-1.523,15.572,0.269,27.037c3.392,21.707,21.87,42.232,21.87,42.232	s18.478-20.525,21.87-42.232C45.801,15.572,38.623,0,22.139,0z" /> 
+    </g>
+<g class="valueContainer" />
+
+</svg>
+  <div class="toast">
+    <p/>
+  </div>
+  
+  
+</div>
+<script src="asset/jquery-3.min.js"></script>
+
+
+<script type="text/javascript">
+
+$('#myInputBox').keyup(function() {
+ 
+    
+       var myInputBoxVal = $(this).val();
+
+       if (myInputBoxVal.length == 11) {
+          $.ajax({
+              type: "GET",
+              url: "records.php?mob_no="+myInputBoxVal,
+              async: false,
+              success: function(text) {
+                var dataVal = $.parseJSON(text)
+                if (dataVal != myInputBoxVal) {
+                  $('.spinBtn').css('display', 'block');
+                }else {
+                  $('.spinBtn').css('display', 'none');
+                  $('#errmsg').html('<h2 style="font-size:18px;color:red;">Number Already Spinned..</h2>');
+                }
+
+              }
+          });
+       }else {
+        $('.spinBtn').css('display', 'none');
+                  $('#errmsg').html('');
+       }
+       
+        
+
+
+})
+
+
+ $("#myInputBox").keypress(function (e) {
+     //if the letter is not digit then display error and don't type anything
+     if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+        //display error message
+        $("#errmsg").html("Digits Only").show().fadeOut("slow");
+               return false;
+    }
+   });
+      
+
+
+</script>
+
+<script src='asset/TweenMax.min.js'></script>
+<script src='asset/Draggable.min.js'></script>
+<script src='js/ThrowPropsPlugin.min.js'></script>
+<script src='js/Spin2WinWheel.js'></script>
+<script src='asset/TextPlugin.min.js'></script>
+<script src="js/index.js"></script>
+
+
+    
+  </body>
+</html>

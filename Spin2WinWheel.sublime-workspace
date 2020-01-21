@@ -1,0 +1,1268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"resultText2OffsetY"
+			],
+			[
+				"co",
+				"colorArray"
+			],
+			[
+				"cen",
+				"centerY"
+			],
+			[
+				"c",
+				"centerX"
+			],
+			[
+				"s",
+				"segmentStrokeWidth"
+			],
+			[
+				"se",
+				"segmentStrokeColor"
+			],
+			[
+				"whee",
+				"wheelImageSize"
+			],
+			[
+				"wheel",
+				"wheelImageOffsetY"
+			],
+			[
+				"add",
+				"addIcon"
+			],
+			[
+				"playI",
+				"playIcon"
+			],
+			[
+				"dec",
+				"decideEndpointPanelVisibility"
+			],
+			[
+				"getSy",
+				"getSymbolElement"
+			],
+			[
+				"connect",
+				"connectorNameToShow"
+			],
+			[
+				"Tween",
+				"TweenMax"
+			],
+			[
+				"connectorn",
+				"connectorName"
+			],
+			[
+				"end",
+				"endPointSecurityElement"
+			],
+			[
+				"over",
+				"overIcon"
+			],
+			[
+				"draw",
+				"DrawSVGPlugin"
+			],
+			[
+				"Twe",
+				"TweenMax"
+			],
+			[
+				"Drb",
+				"chrisgannon_dribbble"
+			],
+			[
+				"transfor",
+				"transformOrigin"
+			],
+			[
+				"interaction",
+				"interactionDown"
+			],
+			[
+				"PosY",
+				"infoPopupPosY"
+			],
+			[
+				"PosX",
+				"infoPopupPosX"
+			],
+			[
+				"int",
+				"interactionMove"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"info-",
+				"info-text"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"infoPop",
+				"infoPopupContainer"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inter",
+				"interactionUp"
+			],
+			[
+				"inte",
+				"interactionOut"
+			],
+			[
+				"pink",
+				"pinkPath"
+			],
+			[
+				"getS",
+				"getSymbolElement"
+			],
+			[
+				"audi",
+				"audioControlSymbol"
+			],
+			[
+				"Spr",
+				"playPauseSprite"
+			],
+			[
+				"rest",
+				"restartAudioButton"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"can",
+				"canPlayAudio"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"audio",
+				"audioTitleText"
+			],
+			[
+				"intro",
+				"introSymbol"
+			],
+			[
+				"gey",
+				"getSymbolElement"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"doMen",
+				"doMenuItemRelease"
+			],
+			[
+				"part",
+				"particleSymbol"
+			],
+			[
+				"ele",
+				"iconElement"
+			],
+			[
+				"Time",
+				"TimelineMax"
+			],
+			[
+				"dr",
+				"dragger"
+			],
+			[
+				"sta",
+				"stage"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"bt_fo",
+				"bt_fontregular"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"labe",
+				"labelText"
+			],
+			[
+				"4C",
+				"4C4C4C"
+			],
+			[
+				"bg",
+				"bgColor"
+			],
+			[
+				"meni",
+				"menuItemSpacer"
+			],
+			[
+				"NF",
+				"NFV"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"cur",
+				"currentSound"
+			],
+			[
+				"cir",
+				"circleMask"
+			],
+			[
+				"onC",
+				"onCompleteParams"
+			],
+			[
+				"iconA",
+				"iconSymbolArray"
+			],
+			[
+				"rese",
+				"resetAll"
+			],
+			[
+				"iconSy",
+				"iconSymbol"
+			],
+			[
+				"iconS",
+				"iconSymbol"
+			],
+			[
+				"Cust",
+				"CustomerUsersSymbol"
+			],
+			[
+				"depe",
+				"dependendantMenuItem"
+			],
+			[
+				"del",
+				"delayedCall"
+			],
+			[
+				"al",
+				"alpha"
+			],
+			[
+				"icon",
+				"iconSymbolArray"
+			],
+			[
+				"Comp",
+				"ComputeManagementSystemSymbol"
+			],
+			[
+				"Custom",
+				"CustomerChoicesSymbol"
+			],
+			[
+				"Int",
+				"InternetSymbol"
+			],
+			[
+				"menuItempo",
+				"menuItemPosY"
+			],
+			[
+				"menuItemP",
+				"menuItemPosX"
+			],
+			[
+				"e",
+				"easeOut"
+			],
+			[
+				"clone",
+				"cloneElement"
+			],
+			[
+				"crea",
+				"createChildSymbol"
+			],
+			[
+				"meniU",
+				"menuItem"
+			],
+			[
+				"menuC",
+				"menuContainerElement"
+			],
+			[
+				"menuB",
+				"menuButtonElement"
+			],
+			[
+				"menuBut",
+				"menuButtonElement"
+			],
+			[
+				"menuBu",
+				"menuButtonSymbol"
+			],
+			[
+				"menuIt",
+				"menuItemOffsetY"
+			],
+			[
+				"menuI",
+				"menuItemWidth"
+			],
+			[
+				"menu",
+				"menuButtonElement"
+			],
+			[
+				"create",
+				"createChildSymbol"
+			],
+			[
+				"creat",
+				"createMenu"
+			],
+			[
+				"stra",
+				"strandMask"
+			],
+			[
+				"oc",
+				"occupied"
+			],
+			[
+				"dropP",
+				"dropPosY"
+			],
+			[
+				"init",
+				"initDropPosY"
+			],
+			[
+				"dragT",
+				"dragTargetElement"
+			],
+			[
+				"zI",
+				"zIndexBoost"
+			],
+			[
+				"dragTarg",
+				"dragTarget1"
+			],
+			[
+				"dragTa",
+				"dragTarget0"
+			],
+			[
+				"dropTr",
+				"dropTargetArray"
+			],
+			[
+				"drag",
+				"dragTargetArray"
+			],
+			[
+				"Arr",
+				"dropTargetArray"
+			],
+			[
+				"ii",
+				"initPosY"
+			],
+			[
+				"in",
+				"initPosY"
+			],
+			[
+				"ini",
+				"initPosX"
+			],
+			[
+				"ease",
+				"easeOut"
+			],
+			[
+				"dropTarget",
+				"dropTarget"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"dropTar",
+				"dropTargetElement"
+			],
+			[
+				"dropT",
+				"dropTargetArray"
+			],
+			[
+				"dragt",
+				"dragTargetArray"
+			],
+			[
+				"stage",
+				"stageWidth"
+			],
+			[
+				"dragTar",
+				"dragTargetElement"
+			],
+			[
+				"currentq",
+				"currentQuizData"
+			],
+			[
+				"quest",
+				"questionId"
+			],
+			[
+				"dragTargetE",
+				"dragTargetElementArray"
+			],
+			[
+				"occ",
+				"occupied"
+			],
+			[
+				"symb",
+				"symbolName"
+			],
+			[
+				"p",
+				"preserve"
+			],
+			[
+				"curren",
+				"currentQuizElement"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"occu",
+				"occupiedId"
+			],
+			[
+				"ea",
+				"ease"
+			],
+			[
+				"dropTargetE",
+				"dropTargetElementArray"
+			],
+			[
+				"curr",
+				"currentQuizElement"
+			],
+			[
+				"showMu",
+				"showMultipleSelect"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"dialN",
+				"dialNumContainer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/index.js",
+			"settings":
+			{
+				"buffer_size": 1801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Spin2WinWheel.js",
+			"settings":
+			{
+				"buffer_size": 23418,
+				"line_ending": "Windows",
+				"name": "function Spin2WinWheel() {"
+			}
+		},
+		{
+			"file": "/D/Edge Animate/svg_wheel/Spin2WinWheel.min.js",
+			"settings":
+			{
+				"buffer_size": 7949,
+				"line_ending": "Windows",
+				"name": "function Spin2WinWheel(){var R=this,w=document.que"
+			}
+		},
+		{
+			"file": "wheel_data.json",
+			"settings":
+			{
+				"buffer_size": 1829,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: from"
+			],
+			[
+				"t",
+				"Tidy JSON"
+			],
+			[
+				"idy",
+				"Tidy JSON"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 272.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Edge Animate/svg_wheel/wheel_data_006_GIST.md",
+		"/D/Edge Animate/svg_wheel/Envato/Spin2WinWheel/js/index.js",
+		"/D/Edge Animate/svg_wheel/Envato/Spin2WinWheel/wheel_data.json",
+		"/D/Edge Animate/svg_wheel/Envato/Spin2WinWheel/index.html",
+		"/D/Edge Animate/envato/edgecarousel_upgraded/js/greensock/minified/plugins/ThrowPropsPlugin.min.js",
+		"/D/Edge Animate/svg_wheel/Envato/Spin2WinWheel/css/style.css",
+		"/D/Edge Animate/svg_wheel/test_001/wheel_data_006.json",
+		"/C/Users/Chris/Desktop/proxy.php",
+		"/D/Edge Animate/svg_wheel/wheel_data_005.json",
+		"/C/AITEMP/ai14633882921.tmp/ai14633882921.txt",
+		"/C/AITEMP/ai14630585582.tmp/ai14630585582.txt",
+		"/C/AITEMP/ai14630585934.tmp/ai14630585934.txt",
+		"/C/Users/Chris/AppData/Local/Temp/Rar$DRa0.167/index.html",
+		"/D/Edge Animate/bt_CoC/index.html",
+		"/C/Users/Chris/AppData/Local/Temp/Rar$DRa0.277/index.html",
+		"/D/Edge Animate/bt_CoC/manifest_cache/index.html",
+		"/D/Edge Animate/btnetwork_cache/publish/web/index.html",
+		"/D/Edge Animate/btnetwork_cache/index.html",
+		"/D/Edge Animate/btconnect_new/index.html",
+		"/C/AITEMP/ai146300641815.tmp/ai146300641815.txt",
+		"/C/AITEMP/ai146300586511.tmp/ai146300586511.txt",
+		"/C/AITEMP/ai146300628013.tmp/ai146300628013.txt",
+		"/C/AITEMP/ai14630039785.tmp/ai14630039785.txt",
+		"/C/AITEMP/ai14630041637.tmp/ai14630041637.txt",
+		"/C/AITEMP/ai14630038123.tmp/ai14630038123.txt",
+		"/C/Users/Chris/Documents/Camtasia Studio/span conf bits_002 - Copy.trec",
+		"/C/AITEMP/ai14628684733.tmp/ai14628684733.txt",
+		"/C/AITEMP/ai14624522589.tmp/ai14624522589.txt",
+		"/C/AITEMP/ai14624513526.tmp/ai14624513526.txt",
+		"/C/AITEMP/ai14623006783.tmp/ai14623006783.txt",
+		"/C/AITEMP/ai14622655993.tmp/ai14622655993.txt",
+		"/C/AITEMP/ai14622816075.tmp/ai14622816075.txt",
+		"/C/AITEMP/ai14622639261.tmp/ai14622639261.txt",
+		"/C/AITEMP/ai14622279586.tmp/ai14622279586.txt",
+		"/C/AITEMP/ai14622274664.tmp/ai14622274664.txt",
+		"/C/AITEMP/ai14621357459.tmp/ai14621357459.txt",
+		"/C/AITEMP/ai14621353667.tmp/ai14621353667.txt",
+		"/C/AITEMP/ai14620427473.tmp/ai14620427473.txt",
+		"/C/AITEMP/ai14620426811.tmp/ai14620426811.txt",
+		"/C/AITEMP/ai14619679463.tmp/ai14619679463.txt",
+		"/D/Edge Animate/sgs_media/biogas/js/biogas_icon.js",
+		"/D/AI/SVG/Blog.svg",
+		"/D/Edge Animate/sgs_media/biogas/biogas_icon.svg",
+		"/D/Dropbox/Work backups/Edge Animate/geniusbar_010/js/greensock/minified/utils/CSSTransform.min.js",
+		"/D/Greensock latest/src/uncompressed/plugins/MorphSVGPlugin.js",
+		"/D/Edge Animate/envato/wheel_new_upgraded/index_edgeActions.js",
+		"/D/Edge Animate/envato/wheel_new_upgraded/css/stylesheet.css",
+		"/D/Edge Animate/envato/wheel_audio/index_edgeActions.js",
+		"/C/AITEMP/ai14610569047.tmp/ai14610569047.txt",
+		"/C/AITEMP/ai146071848315.tmp/ai146071848315.txt",
+		"/C/AITEMP/ai146071541112.tmp/ai146071541112.txt",
+		"/C/Users/Chris/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/YVCBIQM7/email.txt",
+		"/D/Edge Animate/RadioClassique-mobile-640x960/json_proxy.php",
+		"/D/Greensock latest/GreenSock-BusinessGreen-js/GreenSock-BusinessGreen-js/src/uncompressed/plugins/MorphSVGPlugin.js",
+		"/C/Users/Chris/AppData/Local/Temp/Rar$DIa0.657/d3.js",
+		"/C/AITEMP/ai14600239641.tmp/ai14600239641.txt",
+		"/D/Edge Animate/bt_CoC/images/padlock.svg",
+		"/D/Greensock latest/src/minified/TweenMax.min.js",
+		"/D/Edge Animate/bt_CoC/publish/web/bt.appcache",
+		"/C/Users/Chris/Downloads/image (4).svg",
+		"/D/Edge Animate/envato/svg_camera_slideshow/Sent to Envato/Live demo/js/index.js",
+		"/D/Edge Animate/envato/svg_camera_slideshow/Sent to Envato/Live demo/index.html",
+		"/D/AI/singleFile.svg",
+		"/D/Edge Animate/btnetwork_cache/manifest_version/bt.appcache",
+		"/D/Edge Animate/btnetwork_cache/publish/web/manifest_version/index.html",
+		"/D/Edge Animate/btnetwork_cache/publish/web/manifest_version/bt.appcache",
+		"/D/Edge Animate/btnetwork_cache/publish/web/bt.appcache",
+		"/D/Edge Animate/edge_demos/3dcardflip/index_edgeActions.js",
+		"/D/Edge Animate/rugby/index.html",
+		"/D/Edge Animate/rugby/scripts/main_new.js",
+		"/C/Users/Chris/AppData/Local/Temp/Rar$DIa0.074/CaseStudy_Dial3_edge.js",
+		"/C/Users/Chris/AppData/Local/Temp/Rar$DIa0.375/CaseStudy_Dial3_edge.js",
+		"/D/Edge Animate/btnetwork_cache/publish/web/css/stylesheet.css",
+		"/C/Users/Chris/AppData/Local/Temp/ai14337983826.tmp/ai14337983826.txt",
+		"/C/Users/Chris/AppData/Local/Temp/ai14338381609.tmp/ai14338381609.txt",
+		"/D/Edge Animate/btconnect/css/stylesheet.css",
+		"/C/Users/Chris/AppData/Local/Temp/Rar$DIa0.346/Activation.txt",
+		"/D/Edge Animate/envato/edgecarousel_upgraded/index_edgeActions.js",
+		"/D/Edge Animate/btnetwork_cache/publish/web/index_edge.js",
+		"/D/Edge Animate/scratch.svg",
+		"/D/Edge Animate/envato/edgecarousel_upgraded/index.html",
+		"/C/Users/Chris/AppData/Local/Temp/Rar$DIa0.533/CSSTransform.min.js",
+		"/C/Users/Chris/AppData/Local/Temp/ai143263010111.tmp/ai143263010111.txt",
+		"/D/Edge Animate/globe-fiber/js/index.js",
+		"/D/Edge Animate/globe-fiber/index.html",
+		"/D/Edge Animate/globe-fiber/README.txt",
+		"/C/Users/Chris/AppData/Local/Temp/Rar$DIa0.233/snap.svg.js",
+		"/D/Web previews/canvasonvideo/scripts/PerspectiveTransform.min.js",
+		"/D/Edge Animate/treetrack/js/PerspectiveTransform.min.js",
+		"/D/Edge Animate/vibrant/tap_buzz_waves/vibrant-nla-both/js/index.js",
+		"/D/Edge Animate/vibrant/tap_buzz_waves/vibrant-nla-both/index.html",
+		"/D/Edge Animate/training/desouza/casestudya/index_edgeActions.js",
+		"/D/Edge Animate/envato/edgecarousel/Send to Envato/js/greensock/minified/plugins/ThrowPropsPlugin.min.js",
+		"/D/Edge Animate/envato/edgecarousel_upgraded/Send to Envato/readme.txt",
+		"/D/Edge Animate/noodlequiz3/quiz_data.json",
+		"/C/Users/Chris/AppData/Local/Temp/Rar$DIa0.839/readme.txt",
+		"/D/Edge Animate/noodlequiz/quiz_data.json",
+		"/D/Edge Animate/envato/edgecarouseljs_cory/main.js",
+		"/D/Edge Animate/edgecarouseljs_cory/js/Carousel.js",
+		"/D/Edge Animate/edgecarouseljs_cory/main.js",
+		"/D/Edge Animate/envato/dialui/index_edgeActions.js",
+		"/D/Edge Animate/envato/dialui2/index_edgeActions.js",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/rich-notifications/main.js",
+		"/D/Edge Animate/rotater/index_edgeActions.js",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/rich-notifications/README.md",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/camera-capture/app.js",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/frameless-window/background.js",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/frameless-window/frameless_window.js",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/frameless-window/frameless_window.html",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/camera-capture/manifest.json",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/webview-samples/url-handler/README.md",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/webview-samples/url-handler/manifest.json",
+		"/D/Edge Animate/porschetrack_player/index_edgeActions.js",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/frameless-window/titlebar.js",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/context-menu/manifest.json",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/context-menu/main.js",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/context-menu/a.html",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/context-menu/b.js",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/context-menu/a.js",
+		"/C/Users/Chris/Downloads/chrome-app-samples-master/chrome-app-samples-master/context-menu/b.html",
+		"/D/Edge Animate/vectorgirl/main.js",
+		"/D/Edge Animate/vimeocarousel/index_edgeActions.js",
+		"/C/Users/Chris/Desktop/web.config",
+		"/D/Edge Animate/envato/parallax_gsap/index_edgeActions.js",
+		"/D/Edge Animate/envato/slider/index_edgeActions.js",
+		"/D/Edge Animate/envato/businesscard/index_edgeActions.js",
+		"/D/Edge Animate/coffeetrack/main.js",
+		"/D/Edge Animate/keycon/main.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"https://s3-us-west-2.amazonaws.com/s.cdpn.io/35984",
+			"stroke=\"#FFFFFF\" ",
+			"_1_",
+			"id=",
+			"_1_",
+			"https://s3-us-west-2.amazonaws.com/s.cdpn.io/35984",
+			"peg",
+			"fill=\"none\" stroke=\"#F2F2F4\" stroke-width=\"2\" stroke-miterlimit=\"10\" ",
+			"xlinkns",
+			"xmlns",
+			"_",
+			"Integer in pixels",
+			"integer",
+			"_1_",
+			"fill=\"#EFE2DF\" ",
+			"_1_",
+			"rotationY",
+			"rotationX",
+			"_1_",
+			"fill=\"#7D7D7D\" ",
+			"id=",
+			"_2_",
+			"_1_",
+			"fill=\"none\" stroke=\"#000000\" stroke-width=\"3\" stroke-miterlimit=\"10\" ",
+			"_1_",
+			"id=",
+			"_1_",
+			"id=",
+			".svg",
+			"id=",
+			"_1_",
+			"id=",
+			"_1_",
+			"sketch:type=\"MSShapeGroup\" ",
+			"_1_",
+			"convertT",
+			"conv",
+			"_1_",
+			"fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"10\"",
+			"_1_",
+			"fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"3\" stroke-miterlimit=\"10\" ",
+			"_1_",
+			"Spin",
+			"stroke-linecap=\"round\" stroke-miterlimit=\"10\" ",
+			"stroke-linecap=\"round\" ",
+			"fill=\"none\" stroke=\"#FFFFFF\"",
+			"_1_",
+			"id=",
+			"_1_",
+			"setPlayButtonActive",
+			"createS",
+			"_1_",
+			"setIconCount",
+			"playAudio",
+			"playAud",
+			"removeI",
+			"addIcon",
+			"endPointSecurityElement",
+			"decideEndpointPanelVisibility",
+			"clickMen",
+			"numMenuItems",
+			"iconSymbolArray",
+			"playAud",
+			".mp3",
+			"playIc",
+			"decideEndpointPanelVisibility",
+			"playIntroAudio",
+			"decideEndpointPanelVisibility",
+			"resetA",
+			"_1_",
+			"fill=\"none\" stroke=\"#000000\" stroke-miterlimit=\"10\" ",
+			"_1_",
+			"fill=\"none\" stroke=\"#000000\" stroke-miterlimit=\"10\" ",
+			"fill=\"none\" stroke=\"#000000\" stroke-miterlimit=\"10\"",
+			"_1_",
+			"retu",
+			"_1_",
+			".select ",
+			".select()",
+			".select(",
+			"'",
+			"resultText",
+			"win",
+			"value",
+			"'string'",
+			"'image'",
+			"image",
+			"type",
+			"decideEndpointPanelVisibility",
+			"playIcon",
+			"menuId, 'add'",
+			"menuId, 'remove'",
+			"decideEndpointPanelVisibility",
+			"removeIcon",
+			"decideEndpointPanelVisibility",
+			"removeIc",
+			"decideEndpointPanelVisibility",
+			"playIcon",
+			"decide",
+			"Revers",
+			"revers",
+			"mini",
+			"iconSymbolArray",
+			"hasMultipleConnections",
+			"hasC",
+			"hasD",
+			"connectorName",
+			"dependendantMenuId",
+			"hasMultipleConnections",
+			"connectorMenuId",
+			"hasConnector",
+			"connectorMenuId",
+			"dependendantMenuSymbol",
+			"ExtraIn",
+			"removeIcon",
+			"decideEndpointPanelVisibility",
+			"Icon",
+			"clickedCloudCount",
+			"doMenuItemPress",
+			"doMenuItemClick",
+			"onClick",
+			"doMenuItemRelease",
+			"doMenuItemClick",
+			"playA",
+			"createAudio",
+			"decideEndpointPanelVisibility",
+			"addIcon",
+			"Cou"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"media",
+			"",
+			"class=",
+			"",
+			"media",
+			"",
+			"`",
+			"Integer (px)",
+			"Integer",
+			"",
+			"rotationX",
+			"rotationY",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"\"",
+			"\"resultText\"",
+			"\"win\"",
+			"\"value\"",
+			"\"string\"",
+			"\"image\"",
+			"\"type\"",
+			"\\'",
+			"/'",
+			"'",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"30",
+			"5",
+			"52.7",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			",-",
+			"\"1\" ",
+			"rainbowGrad",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"width=\"1",
+			"rainBowGrad",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"_",
+			"jpg",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"rainbowClip",
+			"",
+			"class=",
+			"",
+			"class=",
+			"",
+			"class=",
+			"pulse",
+			"Pulse",
+			"pulse",
+			"line",
+			"class=",
+			"",
+			"class="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1801
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Spin2WinWheel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21990,
+								21990
+							]
+						],
+						"settings":
+						{
+							"auto_name": "function Spin2WinWheel() {",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2066.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Edge Animate/svg_wheel/Spin2WinWheel.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7949,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7949,
+								7949
+							]
+						],
+						"settings":
+						{
+							"auto_name": "function Spin2WinWheel(){var R=this,w=document.que",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 681.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wheel_data.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
